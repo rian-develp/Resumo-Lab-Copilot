@@ -9,5 +9,3 @@ Ao longo do projeto, foram desenvolvidos exemplos práticos de uso, aplicados di
 - prompts: coleção de prompts utilizados, acompanhados de comentários sobre seus efeitos e resultados;
 - anotacoes: reflexões sobre o uso das ferramentas, limitações observadas e boas práticas;
 - resultados: outputs gerados e análises sobre sua utilidade, clareza e adequação aos objetivos propostos.
-
-O material reunido aqui busca apoiar desenvolvedores, estudantes e entusiastas no processo de experimentação com inteligência artificial aplicada, oferecendo uma base inicial de testes, insights e boas práticas.
